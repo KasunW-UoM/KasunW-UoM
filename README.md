@@ -9,10 +9,10 @@ this, I am looking forward to the opportunities which suit for
 undergraduate level.
 
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in COMPUTER NETWORKING and WEB DEVELOPING..
+- 🌱 I’m currently learning nodeJS,VueJS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me kasunmadulal@gmail.com
 
 <!---
 KasunW-UoM/KasunW-UoM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
