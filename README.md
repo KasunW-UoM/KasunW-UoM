@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunw-uom" alt="kasunw-uom" /></a> </p>
 
-- 🔭 I’m currently working on **OnCall System**
+- 🔭 I’m currently working on **My Personal Web Page**
 
-- 🌱 I’m currently learning **reactjs,Nodejs and mongoDB**
+- 🌱 I’m currently learning **reactjs,Nodejs and mongoDB and NextJS**
 
 - 👯 I’m currently learning **ReactJS,nodeJS, and VueJS**
 
