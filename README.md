@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasunw-uom" alt="kasunw-uom" /></a> </p>
 
-- 🔭 I’m currently working on **My Personal Web Page**
+- 🔭 I’m currently working on **freeCodeCamp.org Build a social media app (MERNG Stack)**
 
 - 🌱 I’m currently learning **reactjs,Nodejs and mongoDB and NextJS**
 
