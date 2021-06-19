@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **reactjs,Nodejs and mongoDB and NextJS**
 
-- 👯 I’m currently learning **ReactJS,nodeJS, and VueJS**
+- 👯 I’m currently learning **UI/UX Desiner Learning**
 
 - 📝 I regularly write articles on [https://kasunweerasekara-93045.medium.com/](https://kasunweerasekara-93045.medium.com/)
 
