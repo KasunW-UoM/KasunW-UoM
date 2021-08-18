@@ -14,7 +14,7 @@
 - 📝 I regularly write articles on [https://kasunweerasekara-93045.medium.com/](https://kasunweerasekara-93045.medium.com/)
 
 - 📫 How to reach me **kasunmadulal@gmail.com**
-- Owner AND Content Creater **EduLIE Solution Youtube channel**
+- 📝 Owner AND Content Creater **EduLIE Solution Youtube channel**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
