@@ -7,13 +7,14 @@
 
 - 🔭 I’m currently working on **freeCodeCamp.org Build a social media app (MERNG Stack)**
 
-- 🌱 I’m currently learning **reactjs,Nodejs and mongoDB and NextJS**
+- 🌱 I’m currently learning **reactjs,Nodejs and mongoDB **
 
 - 👯 I’m currently learning **UI/UX Desiner Learning**
 
 - 📝 I regularly write articles on [https://kasunweerasekara-93045.medium.com/](https://kasunweerasekara-93045.medium.com/)
 
 - 📫 How to reach me **kasunmadulal@gmail.com**
+- Owner AND Content Creater **EduLIE Solution Youtube channel**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
